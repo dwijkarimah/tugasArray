@@ -13,7 +13,5 @@
     push dan pop()
     shift() dan unshift()
 
-    4. Jelaskan apa perbedaan looping Array forEach() dan .map()? .forEach() adalah method untuk melakukan looping pada setiap elemen array sedangkan .map() melakukan               perulangan/looping dengan membuat array baru. forEach juga tidak dapat membuat array baru, jika dilakukan, akan menghasilkan nilai Undefined ( error )
-Jadi, gunakan .forEach() jika hanya memerlukan looping untuk menampilkan saja atau menyimpan ke database.
-Gunakan .map() jika akan melakukan operasi pada array seperti yang dapat mengubah nilai array sebelumnya.
+    4. Jelaskan apa perbedaan looping Array forEach() dan .map()? .forEach() adalah method untuk melakukan looping pada setiap elemen array sedangkan .map() melakukan               perulangan/looping dengan membuat array baru. forEach juga tidak dapat membuat array baru, jika dilakukan, akan menghasilkan nilai Undefined ( error ). Jadi, gunakan .forEach() jika hanya memerlukan looping untuk menampilkan saja atau menyimpan ke database. Gunakan .map() jika akan melakukan operasi pada array seperti yang dapat mengubah nilai array sebelumnya.
 
