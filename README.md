@@ -1,6 +1,7 @@
 # Tugas Array sesi 7
-    1. Kapan kita harus menggunakan Array?Ia adalah suatu tipe data yang bersifat spesial dalam javascript, 
-    ia bisa menyimpan himpunan beberapa nilai dalam satu variabel       saja. jadi kita ingin menyimpan banyak data pada 1 variabel
+    1. Kapan kita harus menggunakan Array?Ia adalah suatu tipe data yang bersifat spesial dalam javascript,
+    ia bisa menyimpan himpunan beberapa nilai dalam satu variabel saja.
+    jadi kita ingin menyimpan banyak data pada 1 variabel
 
     2. Apa itu Property Array? Property Array ADALAH yang paling banyak digunakan pada array 
     seperti properti length yang menentukan jumlah elemen di dalam array, ukuran array.
